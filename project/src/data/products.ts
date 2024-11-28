@@ -1,0 +1,48 @@
+import { Product } from '../types';
+
+export const FEATURED_PRODUCTS: Product[] = [
+  {
+    id: '1',
+    name: 'Slim Fit T-Shirt',
+    brand: 'H&M',
+    price: 499,
+    originalPrice: 999,
+    discount: 50,
+    category: 'men',
+    image: 'https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+    sizes: ['S', 'M', 'L', 'XL'],
+  },
+  {
+    id: '2',
+    name: 'Floral Summer Dress',
+    brand: 'ZARA',
+    price: 1499,
+    originalPrice: 2999,
+    discount: 50,
+    category: 'women',
+    image: 'https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+    sizes: ['XS', 'S', 'M', 'L'],
+  },
+  {
+    id: '3',
+    name: 'Classic Denim Jacket',
+    brand: 'Levi\'s',
+    price: 2499,
+    originalPrice: 4999,
+    discount: 50,
+    category: 'men',
+    image: 'https://images.unsplash.com/photo-1576995853123-5a10305d93c0?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+    sizes: ['S', 'M', 'L', 'XL'],
+  },
+  {
+    id: '4',
+    name: 'Casual Sneakers',
+    brand: 'Nike',
+    price: 3499,
+    originalPrice: 6999,
+    discount: 50,
+    category: 'shoes',
+    image: 'https://images.unsplash.com/photo-1460353581641-37baddab0fa2?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+    sizes: ['7', '8', '9', '10', '11'],
+  },
+];
