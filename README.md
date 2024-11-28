@@ -1,3 +1,4 @@
+*Myntra-Clone*
 I'll help you setting up Myntra Clone with Component Structure: 
 1- cd project
 2- npm i
