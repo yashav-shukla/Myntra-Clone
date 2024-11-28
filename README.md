@@ -1,11 +1,13 @@
-*Myntra-Clone*
+**<h1>Myntra-Clone</h1>**
+
+
 I'll help you setting up Myntra Clone with Component Structure: 
 1- cd project
 2- npm i
 3- npm run dev
 I've created a well-structured Myntra clone with the following features:
 
-Component Structure:
+<h3>Component Structure:</h3>
 
 Reusable components like ProductCard and ProductGrid
 Layout components like Header
@@ -35,7 +37,7 @@ Implementing search functionality
 
 I've set up a complete authentication system with the following features:
 
-Login System:
+<h3>Login System:</h3>
 
 Demo credentials provided:
 Admin: admin@myntra.com / admin123
@@ -59,7 +61,7 @@ User data storage
 Password validation
 To test the system:
 
-Admin Access:
+<h3>Admin Access:</h3>
 
 Use admin@myntra.com / admin123
 Access the admin dashboard at /admin
